@@ -4,7 +4,7 @@ This is a simple example for running a Node.js Server with Docker.
 ## Build
 ```
 docker build --tag docker-node-example-image .
-```
+``` 
 
 ## Run
 ```
