@@ -36,7 +36,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: user/app:latest
+          tags: lati1010/ubuntu:latest1010
           cache-from: type=registry,ref=user/app:latest
           cache-to: type=inline
       -
